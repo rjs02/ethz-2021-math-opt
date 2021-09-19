@@ -1,2 +1,2 @@
-# math-opt
-ETH AT21, lecture "Introduction to Mathematical Optimization"
+# Introduction to Mathematical Optimization
+ETH AT21
